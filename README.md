@@ -86,4 +86,4 @@ Her work bridges **education, analytics, and technical systems design**, blendin
 
 ---
 
-✨ *“Excel can do more than calculate — it can think.”*
+✨ *“Excel Automations are my jam!.”*
