@@ -2,7 +2,7 @@
 
 **Author:** Jo Ann Balsamo  
 Implementation & Process Automation | EdTech Innovation  
-📎 [linkedin.com/in/joannbalsamo](https://linkedin.com/in/joannbalsamo)
+📎 [linkedin.com/in/jo-ann-balsamo](https://www.linkedin.com/in/jo-ann-balsamo/)
 
 ---
 
@@ -49,7 +49,7 @@ You are encouraged to:
 - Test and observe how variable changes impact outputs  
 - Explore how offset keys might shift cipher positions  
 - Analyze string manipulation through Excel’s modern function stack  
-- Share insights or decoding theories via [LinkedIn](https://linkedin.com/in/joannbalsamo)
+- Share insights or decoding theories via [LinkedIn](https://www.linkedin.com/in/jo-ann-balsamo/)
 
 ---
 
