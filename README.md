@@ -14,7 +14,7 @@ It demonstrates how complex algorithmic logic can be achieved **purely through n
 Two files are included:
 
 - `EXP_LIGH.pdf` — a **public “decoder test sheet”** providing the cipher map, offset key, and masked output.  
-- `EXP_LIGH.xlsx` — an **interactive version** with working formulas intact, allowing users to **test and observe the decoding logic in action.**
+- `EXP_LIGH_Challenge.xlsx` — an **interactive version** with working formulas intact, allowing users to **test and observe the decoding logic in action.**
 
 > ⚠️ The proprietary cipher mechanics and full decryption logic remain protected.  
 > Both versions are redacted to preserve the underlying intellectual property.
@@ -36,7 +36,7 @@ This project showcases:
 | File | Description |
 |------|--------------|
 | **EXP_LIGH.pdf** | Public challenge worksheet containing cipher data, offset key, and masked output for review. |
-| **EXP_LIGH.xlsx** | Live workbook with testable formulas allowing safe experimentation and theory validation. |
+| **EXP_LIGH_Challenge.xlsx** | Live workbook with testable formulas allowing safe experimentation and theory validation. |
 
 ---
 
